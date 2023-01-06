@@ -79,6 +79,10 @@ h5 {
   border-color: #FF7549;
 }
 
+.logo-svg:hover .logo-path {
+  fill: #FF9900;
+}
+
 .wrapper {
   max-width: 1197px;
   margin: auto;
